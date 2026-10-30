@@ -20,9 +20,7 @@ The LLaMA Large Language Model (LLM) is utilized to process and understand the d
 
 ### Set-up
 1. Clone the repository:
-    ```
-    git clone https://github.com/amlanmohanty1/genAI-data-analysis-report-generator.git
-    ```
+    
 2. Get an API_KEY from here: https://console.groq.com/keys. Update the value of `GROQ_API_KEY` with the API_KEY you created inside the `.env` file. 
 
 3. Install the required dependencies:
@@ -31,7 +29,3 @@ The LLaMA Large Language Model (LLM) is utilized to process and understand the d
     ```
    
 4. Run the `app.py` file.
-
-
-### License
-This project is licensed under the MIT License. Check out the [LICENSE](LICENSE) file for more details. 
